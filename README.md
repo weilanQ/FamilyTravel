@@ -1,6 +1,6 @@
 # FamilyTravel: Conflict-Aware Multi-Agent Family Travel Planning
 
-Anonymous code release for the paper *"FamilyTravel: A Conflict-Annotated Benchmark and a Conflict-Aware Multi-Agent Planner for Family Travel Planning"*.
+Code release for the paper *"FamilyTravel: A Conflict-Annotated Benchmark and a Conflict-Aware Multi-Agent Planner for Family Travel Planning"*.
 
 The planner runs a 7-module pipeline per family: persona agent initialization (M1), individual proposal generation with quality gating (M2/M2.5), conflict detection (M3), multi-round negotiation (M4), consensus itinerary generation with online grounding (M5), evaluation and explanation (M6), and a feedback/revision loop with targeted backtracking (M7).
 
