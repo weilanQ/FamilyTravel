@@ -1,4 +1,4 @@
-<img width="5847" height="7449" alt="frame" src="https://github.com/user-attachments/assets/4f6190fc-0615-446b-9573-c52260b14903" /># FamilyTravel: Conflict-Aware Multi-Agent Family Travel Planning
+# FamilyTravel: Conflict-Aware Multi-Agent Family Travel Planning
 
 Code release for the paper *["FamilyTravel: A Conflict-Annotated Benchmark and a Conflict-Aware Multi-Agent Planner for Family Travel Planning"](https://doi.org/10.1007/978-981-92-7738-4_26)*.
 
