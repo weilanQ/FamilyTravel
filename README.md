@@ -1,10 +1,15 @@
-# FamilyTravel: Conflict-Aware Multi-Agent Family Travel Planning
+<img width="5847" height="7449" alt="frame" src="https://github.com/user-attachments/assets/4f6190fc-0615-446b-9573-c52260b14903" /># FamilyTravel: Conflict-Aware Multi-Agent Family Travel Planning
 
 Code release for the paper *["FamilyTravel: A Conflict-Annotated Benchmark and a Conflict-Aware Multi-Agent Planner for Family Travel Planning"](https://doi.org/10.1007/978-981-92-7738-4_26)*.
 
 [Download the Paper PDF](https://github.com/weilanQ/FamilyTravel/blob/main/FamilyTravel_Benchmarking%20Member-Attributable%20Conflict%20Resolution%20%20in%20Family%20Travel%20Planning.pdf)
 
-The planner runs a 7-module pipeline per family: persona agent initialization (M1), individual proposal generation with quality gating (M2/M2.5), conflict detection (M3), multi-round negotiation (M4), consensus itinerary generation with online grounding (M5), evaluation and explanation (M6), and a feedback/revision loop with targeted backtracking (M7).
+The proposed benchmark first identifies family members with conflicting travel preferences, tests conflict resolution strategies, and assesses the resulting itinerary for each member. The planner runs a 7-module pipeline per family: persona agent initialization (M1), individual proposal generation with quality gating (M2/M2.5), conflict detection (M3), multi-round negotiation (M4), consensus itinerary generation with online grounding (M5), evaluation and explanation (M6), and a feedback/revision loop with targeted backtracking (M7).
+
+<p align="center">
+  <img src="intro.jpg" alt="7-module pipeline">
+</p>
+
 
 ## Repository layout
 
