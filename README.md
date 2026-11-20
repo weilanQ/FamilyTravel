@@ -78,3 +78,7 @@ python data_select/generate_personas_api.py
 ## Outputs
 
 Each module writes CSV/JSON under `<project-root>/results/module_<n>/`; final natural-language itineraries are exported to `results/final_itinerary_txt/`. Ablation and baseline runs write to `results/ablation/` and `results/baseline/` respectively.
+
+## Contact
+
+You can contact us via email weilanqian@fudan.edu.cn or lankai.yang@mail.utoronto.ca for any questions.
